@@ -1,3 +1,3 @@
 # parser
 
-See (src/test/java/com/jeffbrower/parser/ParserTest.java) for usage
+See [ParserTest.java](src/test/java/com/jeffbrower/parser/ParserTest.java) for usage
